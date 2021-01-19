@@ -25,16 +25,15 @@ body {
     font-size: 20px;
 }
 
-.fa-university {
-    font-size: 30px;
-    color: black;
-    padding-right: 4px;
+.logo {
+    width: 45px;
 }
 
-.logo {
-    font-size: 25px;
+.logo_word {
+    font-size: 27px;
     font-weight: bold;
-    color: royalblue;
+    color: gray;
+    padding-left: 7px;
 }
 
 .nav_menu {
