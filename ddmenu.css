@@ -36,6 +36,11 @@ body {
     padding-left: 7px;
 }
 
+.logo_word a {
+    text-decoration: none;
+    color: gray;
+}
+
 .nav_menu {
     min-width: 138px;
     text-align: center;
